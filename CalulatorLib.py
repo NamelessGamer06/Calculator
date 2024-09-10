@@ -12,4 +12,4 @@ def Dividing(num1, num2):
         print("Error! Can't Divide By Zero!")
     
     else:
-        print("Your Numbers Have Been Reduesed to...\n", num1 / num2)
+        print("Your Numbers Have Been Reduced to...\n", num1 / num2)
