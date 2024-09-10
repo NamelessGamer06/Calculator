@@ -20,7 +20,7 @@ elif Task == "-":
 
 elif Task == "*":
     
-    CalulatorLib.Multiply(num1, num2)
+    CalulatorLib.Multiplying(num1, num2)
 
 elif Task == "/":
     
